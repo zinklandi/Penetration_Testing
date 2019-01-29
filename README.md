@@ -3,7 +3,7 @@ This repo contains some pentests which I've made within my MSc. Computer Science
 
 Have fun!
 
-## Current VM's on VulnHub which I conquered:
+## Current VM's on VulnHub I've analysed:
 - `ch4inrulz` (Version 1.0.1): https://www.vulnhub.com/entry/ch4inrulz-101,247/
 
 ## Challenges I participated
